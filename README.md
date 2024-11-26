@@ -33,29 +33,3 @@
 </div>
 
 ###
-name: Generate Snake
-
-on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Clonar o repositório
-        uses: actions/checkout@v2
-
-      - name: Gerar a cobra
-        uses: Platane/snk@v2
-        with:
-          github_user_name: <SEU_USUARIO>
-          output: dist/github-contribution-grid-snake.svg
-
-      - name: Fazer upload do SVG
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-commit
-          path: dist/github-contribution-grid-snake.svg
