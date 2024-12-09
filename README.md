@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Exploring both front-end and back-end development | Continuously learning to create complete and efficient solutions.<br>💡 Interested in entering the tech industry, specializing, and continuously learning.<br>🌱 Continuously learning and enhancing my skills in Java, C, C++, JavaScript, HTML, CSS, and SQL.</p>
+<p align="left">💻 Exploring both front-end and back-end development | Continuously learning to create complete and efficient solutions.<br>💡 Interested in entering the tech industry, specializing, and continuously learning.<br>🌱 Continuously learning and enhancing my skills in Java, C, C++, JavaScript, HTML, CSS, and SQL.<br>📜 Certified in C/C++ and Object-Oriented Programming.</p>
 
 ###
 
@@ -31,5 +31,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
-###
