@@ -62,23 +62,7 @@
 <div align="center">
   <a href="https://open.spotify.com/user/btrxlm9vlgm4f3g1gl8ldxs4a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=btrxlm9vlgm4f3g1gl8ldxs4a&count=5&unique=false" alt="Spotify recently played" />
-  </a>
-  <a href="https://open.spotify.com/user/btrxlm9vlgm4f3g1gl8ldxs4a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=btrxlm9vlgm4f3g1gl8ldxs4a" alt="Spotify recently played" />
-  </a>
-  <a href="https://open.spotify.com/user/btrxlm9vlgm4f3g1gl8ldxs4a&count={count}">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=btrxlm9vlgm4f3g1gl8ldxs4a&count={count}" alt="Spotify recently played count" />
-  </a>
-  <a href="https://open.spotify.com/user/btrxlm9vlgm4f3g1gl8ldxs4a&width={width}">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=btrxlm9vlgm4f3g1gl8ldxs4a&width={width}" alt="Spotify recently played width" />
-  </a>
-  <a href="https://open.spotify.com/user/btrxlm9vlgm4f3g1gl8ldxs4a&unique={true|1|on|yes}">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=btrxlm9vlgm4f3g1gl8ldxs4a&unique={true|1|on|yes}" alt="Spotify recently played unique" />
-  </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bercarvalho/Bercarvalho/output/snake.svg" alt="Snake animation" />
-
-###
